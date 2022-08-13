@@ -8,10 +8,13 @@
 
 ## Data
 
-Singapore (https://github.com/dkondor/bikesharing_data)
-Shanghai (http://shanghai.sodachallenges.com/data.html?lang=en)
-Beijing (https://biendata.com/competition/mobike/data/)
-Los Angeles, San Francisco (https://datadryad.org/stash/dataset/doi:10.25338/B8X064)
+>Singapore (https://github.com/dkondor/bikesharing_data)
+>
+>Shanghai (http://shanghai.sodachallenges.com/data.html?lang=en)
+>
+>Beijing (https://biendata.com/competition/mobike/data/)
+>
+>Los Angeles, San Francisco (https://datadryad.org/stash/dataset/doi:10.25338/B8X064)
 
 
 ## Method
